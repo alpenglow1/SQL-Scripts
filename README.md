@@ -1,2 +1,1 @@
-# Scripts
-sql做题记录
+sql编写记录
